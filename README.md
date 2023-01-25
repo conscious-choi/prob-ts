@@ -1,3 +1,3 @@
 # prob-ts
 
-## Probability Computation & Visualization Library in Typescript
+### Fast Probability Computation & Visualization Library in Typescript
